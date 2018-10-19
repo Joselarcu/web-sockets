@@ -1,9 +1,10 @@
 # Notas:
 
-Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
+Express server that implements web sockets
 
-Recuerden que deben de reconstruir los módulos de node con el comando
+Run server
 
 ```
 npm install
+node server.js
 ```
